@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300;500&family=Roboto:wght@300&display=swap');
+
+* {
+    font-family: Open Sans;
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    background-color: lavender;
+}
+
+.container {
+    display: block;
+    text-align: center;
+    margin: 100px auto;
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container img {
+    margin-top: 20px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.container h2 {
+    margin: 15px auto;
+    width: 300px;
+}
+
+.container p {
+    width: 250px;
+    font-size: 15px;
+    margin: 30px auto;
+    color: #999;
+}
+
